@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Aish2808/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aish2808/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Aish2808/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aish2808/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Aish2808/LeetCode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Aish2808/LeetCode/tree/master/0415-add-strings) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aish2808/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aish2808/LeetCode/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/Aish2808/LeetCode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/Aish2808/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Aish2808/LeetCode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Aish2808/LeetCode/tree/master/0455-assign-cookies) |
