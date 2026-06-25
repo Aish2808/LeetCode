@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aish2808/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aish2808/LeetCode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Aish2808/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Aish2808/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aish2808/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aish2808/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Aish2808/LeetCode/tree/master/0179-largest-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aish2808/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aish2808/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Aish2808/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Aish2808/LeetCode/tree/master/0217-contains-duplicate) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aish2808/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aish2808/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Aish2808/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aish2808/LeetCode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Aish2808/LeetCode/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Aish2808/LeetCode/tree/master/0844-backspace-string-compare) |
