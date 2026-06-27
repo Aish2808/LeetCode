@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Aish2808/LeetCode/tree/master/0860-lemonade-change) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aish2808/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Aish2808/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Aish2808/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Aish2808/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aish2808/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Aish2808/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Aish2808/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Aish2808/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
