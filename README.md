@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aish2808/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aish2808/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Aish2808/LeetCode/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/Aish2808/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Aish2808/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aish2808/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aish2808/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/Aish2808/LeetCode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Aish2808/LeetCode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Aish2808/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Aish2808/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aish2808/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aish2808/LeetCode/tree/master/1189-maximum-number-of-balloons) |
