@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Aish2808/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aish2808/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aish2808/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aish2808/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2126-destroying-asteroids](https://github.com/Aish2808/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aish2808/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/Aish2808/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Aish2808/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aish2808/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aish2808/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aish2808/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Aish2808/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Aish2808/LeetCode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Aish2808/LeetCode/tree/master/3174-clear-digits) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aish2808/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Aish2808/LeetCode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Aish2808/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aish2808/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Aish2808/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Aish2808/LeetCode/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aish2808/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
