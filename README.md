@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aish2808/LeetCode/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/Aish2808/LeetCode/tree/master/0860-lemonade-change) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aish2808/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/Aish2808/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aish2808/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Aish2808/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Aish2808/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aish2808/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Aish2808/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Aish2808/LeetCode/tree/master/0455-assign-cookies) |
+| [1331-rank-transform-of-an-array](https://github.com/Aish2808/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aish2808/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Aish2808/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aish2808/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aish2808/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Aish2808/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Aish2808/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Aish2808/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Aish2808/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aish2808/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3668-restore-finishing-order](https://github.com/Aish2808/LeetCode/tree/master/3668-restore-finishing-order) |
