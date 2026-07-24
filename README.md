@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/Aish2808/LeetCode/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aish2808/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aish2808/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/Aish2808/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Aish2808/LeetCode/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aish2808/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Aish2808/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/Aish2808/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/Aish2808/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Bit Manipulation
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Aish2808/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/Aish2808/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Aish2808/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/Aish2808/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aish2808/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
