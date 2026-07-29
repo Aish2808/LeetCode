@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aish2808/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Aish2808/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/Aish2808/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [3019-number-of-changing-keys](https://github.com/Aish2808/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/Aish2808/LeetCode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Aish2808/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Aish2808/LeetCode/tree/master/3174-clear-digits) |
