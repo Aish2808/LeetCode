@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aish2808/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aish2808/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Aish2808/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Aish2808/LeetCode/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aish2808/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aish2808/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aish2808/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aish2808/LeetCode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Aish2808/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Aish2808/LeetCode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
