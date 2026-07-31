@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aish2808/LeetCode/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/Aish2808/LeetCode/tree/master/0860-lemonade-change) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aish2808/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1051-height-checker](https://github.com/Aish2808/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aish2808/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Aish2808/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aish2808/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Aish2808/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Aish2808/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aish2808/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Aish2808/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Aish2808/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aish2808/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aish2808/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aish2808/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aish2808/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aish2808/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1051-height-checker](https://github.com/Aish2808/LeetCode/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Aish2808/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aish2808/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aish2808/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
