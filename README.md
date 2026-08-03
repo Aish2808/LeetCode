@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Aish2808/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aish2808/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aish2808/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aish2808/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Aish2808/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aish2808/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aish2808/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Aish2808/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aish2808/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aish2808/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aish2808/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Aish2808/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3668-restore-finishing-order](https://github.com/Aish2808/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Binary Search
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aish2808/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aish2808/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Aish2808/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aish2808/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
