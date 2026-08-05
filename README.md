@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/Aish2808/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Aish2808/LeetCode/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aish2808/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3798-largest-even-number](https://github.com/Aish2808/LeetCode/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/Aish2808/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Aish2808/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/Aish2808/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
