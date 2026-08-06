@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aish2808/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aish2808/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aish2808/LeetCode/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aish2808/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aish2808/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Aish2808/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aish2808/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aish2808/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Aish2808/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aish2808/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
