@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/Aish2808/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/Aish2808/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Aish2808/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aish2808/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aish2808/LeetCode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aish2808/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/Aish2808/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/Aish2808/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3668-restore-finishing-order](https://github.com/Aish2808/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Aish2808/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aish2808/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aish2808/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aish2808/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
