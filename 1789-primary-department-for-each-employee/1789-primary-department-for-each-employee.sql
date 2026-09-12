@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select e.employee_id, e.department_id from Employee e join (select employee_id, count(department_id) as department_count from Employee group by employee_id) m on e.employee_id = m.employee_id where primary_flag = 'Y' or department_count = 1;
