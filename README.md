@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Aish2808/LeetCode/tree/master/0175-combine-two-tables) |
+| [0180-consecutive-numbers](https://github.com/Aish2808/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aish2808/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/Aish2808/LeetCode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Aish2808/LeetCode/tree/master/0550-game-play-analysis-iv) |
