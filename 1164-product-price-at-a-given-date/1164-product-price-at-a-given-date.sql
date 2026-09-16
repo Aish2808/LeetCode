@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select p.product_id, coalesce(m.new_price, 10) as price from (select distinct product_id from Products) p left join (select pr.product_id, pr.new_price from Products pr join (select product_id, max(change_date) as latest_date from Products where change_date <= '2019-08-16' group by product_id) lt on pr.product_id = lt.product_id and pr.change_date = lt.latest_date) m on p.product_id = m.product_id;
