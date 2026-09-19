@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Aish2808/LeetCode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aish2808/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Aish2808/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Aish2808/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aish2808/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aish2808/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aish2808/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Aish2808/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Aish2808/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Aish2808/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Aish2808/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aish2808/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Aish2808/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aish2808/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -495,4 +497,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aish2808/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Aish2808/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
