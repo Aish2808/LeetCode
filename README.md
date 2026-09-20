@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aish2808/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/Aish2808/LeetCode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aish2808/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Aish2808/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aish2808/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aish2808/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2678-number-of-senior-citizens](https://github.com/Aish2808/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aish2808/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Aish2808/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/Aish2808/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Aish2808/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aish2808/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Aish2808/LeetCode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aish2808/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
