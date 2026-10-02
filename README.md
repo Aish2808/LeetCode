@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aish2808/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aish2808/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Aish2808/LeetCode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/Aish2808/LeetCode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Aish2808/LeetCode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aish2808/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Aish2808/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aish2808/LeetCode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/Aish2808/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Geometry
 |  |
@@ -532,4 +534,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aish2808/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aish2808/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aish2808/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aish2808/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aish2808/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
