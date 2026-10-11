@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aish2808/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Aish2808/LeetCode/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aish2808/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/Aish2808/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Aish2808/LeetCode/tree/master/2418-sort-the-people) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aish2808/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aish2808/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aish2808/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aish2808/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2278-percentage-of-letter-in-string](https://github.com/Aish2808/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Aish2808/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Aish2808/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Aish2808/LeetCode/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Aish2808/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Aish2808/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aish2808/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/Aish2808/LeetCode/tree/master/2032-two-out-of-three) |
+| [2351-first-letter-to-appear-twice](https://github.com/Aish2808/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Aish2808/LeetCode/tree/master/2917-find-the-k-or-of-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Aish2808/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Recursion
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aish2808/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aish2808/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Aish2808/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2351-first-letter-to-appear-twice](https://github.com/Aish2808/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aish2808/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Aish2808/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Aish2808/LeetCode/tree/master/3866-first-unique-even-element) |
