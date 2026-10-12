@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Aish2808/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Aish2808/LeetCode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aish2808/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Aish2808/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Aish2808/LeetCode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aish2808/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aish2808/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/Aish2808/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aish2808/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Aish2808/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Aish2808/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aish2808/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aish2808/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Aish2808/LeetCode/tree/master/3452-sum-of-good-numbers) |
