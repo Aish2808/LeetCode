@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aish2808/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3668-restore-finishing-order](https://github.com/Aish2808/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Aish2808/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Aish2808/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3701-compute-alternating-sum](https://github.com/Aish2808/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Aish2808/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aish2808/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aish2808/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Aish2808/LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aish2808/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Aish2808/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aish2808/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aish2808/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aish2808/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Aish2808/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aish2808/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aish2808/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Aish2808/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aish2808/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Aish2808/LeetCode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Aish2808/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/Aish2808/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aish2808/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/Aish2808/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Aish2808/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Aish2808/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aish2808/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aish2808/LeetCode/tree/master/3731-find-missing-elements) |
